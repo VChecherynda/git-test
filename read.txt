@@ -1,4 +1,5 @@
 1. First master commit
+<<<<<<< f27cac52b39731e3b043f90a7a90486bfe16dbd1
 <<<<<<< 57cab04480e53c986b0770648bb508f51c3ad99d
 2. Second master commit.
 =======
@@ -6,3 +7,7 @@
 2. Commit on the new-branch
 3. Commit on the new-branch#2
 >>>>>>> New brach commit #2
+=======
+2. Second master commit.
+3. Third maste commit.
+>>>>>>> Add third commit
